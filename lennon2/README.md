@@ -26,7 +26,7 @@
 ---
 #### 测试结果
 
-![lennon2](img/lennon2/lennon2.png)
+![lennon2](/img/lennon2/lennon2.png)
 ---
 ```
 来源：力扣（LeetCode）
