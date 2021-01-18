@@ -1,4 +1,8 @@
-##2. 两数相加
+---
+
+---
+
+###### 2. 两数相加
 
 ---
 #### 题目描述
@@ -26,7 +30,7 @@
 ---
 #### 测试结果
 
-![lennon2](img/lennon2/lennon2.png)
+![lennon2](/img/lennon2/lennon2.png)
 ---
 ```
 来源：力扣（LeetCode）
