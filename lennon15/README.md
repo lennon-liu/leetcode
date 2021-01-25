@@ -104,7 +104,7 @@ https://github.com/lennon-liu/leetcode/tree/main/lennon15
 ---
 #### 测试结果
 
-![lennon2](/img/lennon15/lennon15.png)
+![lennon15](/img/lennon15/lennon15.png)
 
 ----
 #### 优化与总结
