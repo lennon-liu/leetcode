@@ -56,6 +56,7 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 	return listNode
 }
 
+//这是一条测试语句
 func main() {
 	listNode1 := new(ListNode)
 	list1 := []int{2, 4, 3}
